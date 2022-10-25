@@ -1,0 +1,17 @@
+Q1: Why was it a good choice to divide the programm in exactly those functions that you implemented?
+Q2: What was the most tricky part of the program and how did you find a good solution?
+Q3: How much memory did your exe-file need? Can you give an example how you could have saved memory?
+
+A1: I have dived the program in various functions so that the overall implementation in the main function will be minute. 
+	Now it is easy to read and understad from the names of functions that what is happening. Hence, whenever I call a function
+	the person reading the code instatntly gets the idea that at such a point what i the idea that is going to be implemented
+	In addition, It also gives oppertunity to name the variables same every time as the scope of a variable in a function is 
+	restricted to that particular function.
+	
+A2: The most tricky part was to implement the that how the computer detects user's marks and tries its bet win. 
+	For this purpose, I have to implement functions that calls other functions. Furthermore, I have implemented
+	the idea of linked lists that involves nested structs with pointers.
+
+A3: The exe file requires 75KB to store in a computer. I tried to save memory by using pointers to save this memory.
+
+My program is too simple that I am sure that it is executable on every IDE even on the online compilers.

@@ -9,5 +9,4 @@ It has following files:
   3) declaration of the authenticity
   4) functions_list.h file that mentions all of the functions I have created and used in this project to give aan abstract information of the code
   5) exe file to that can be run by just double clicking it on Windows and triple clicking on Ubuntu
-  6) video file to show the simulation
-  7) c code file.
+  6) c code file.
